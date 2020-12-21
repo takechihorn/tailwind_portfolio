@@ -1,0 +1,19 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tailwindportfolio-dev-225826-authRole",
+      "UnauthRoleArn": "arn:aws:iam::213330998827:role/amplify-tailwindportfolio-dev-225826-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::213330998827:role/amplify-tailwindportfolio-dev-225826-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-tailwindportfolio-dev-225826-deployment",
+      "UnauthRoleName": "amplify-tailwindportfolio-dev-225826-unauthRole",
+      "StackName": "amplify-tailwindportfolio-dev-225826",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:213330998827:stack/amplify-tailwindportfolio-dev-225826/7279c7b0-42cb-11eb-9b3c-0a205ce0db80"
+    },
+    "categories": {
+      "auth": {
+        "tailwindportfolio1b9b642e": {}
+      }
+    }
+  }
+}

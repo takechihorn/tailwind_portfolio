@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "tailwindportfolio1b9b642e": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
