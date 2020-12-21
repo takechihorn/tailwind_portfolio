@@ -1,5 +1,5 @@
 <template>
-  <div class="grid md:grid-col-3">
+  <div class="grid md:grid-col-3 bg-blue-200 h-screen w-screen">
     <div class="md:col-span-1 md:justify-end">
       <Nav/>
     </div>
