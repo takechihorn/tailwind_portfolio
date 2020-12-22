@@ -1,9 +1,9 @@
 <template>
-  <div class="grid md:grid-col-3 bg-blue-200 h-screen w-screen">
-    <div class="md:col-span-1 md:justify-end">
+  <div class=" bg-blue-200 h-screen w-screen">
+    <div class=" md:justify-end">
       <Nav/>
     </div>
-    <div class="md:col-span-2">
+    <div>
       <Nuxt />
     </div>
     <div>

@@ -1,6 +1,6 @@
 {
   "auth": {
-    "tailwindportfolio1b9b642e": {
+    "tailwindportfolioc13e327a": {
       "service": "Cognito",
       "providerPlugin": "awscloudformation",
       "dependsOn": [],
